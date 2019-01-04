@@ -1,2 +1,2 @@
-# text-emoji
+# emoji
 收集表情包
